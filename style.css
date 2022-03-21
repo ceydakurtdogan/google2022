@@ -1,0 +1,153 @@
+.container-fluid {
+    width: 100%;
+    height: 48px;
+}
+
+.row {
+    right: 0px;
+    margin-top: 57px;
+    margin-right: 4px;
+    width: 328px;
+    margin-left: auto;
+    padding: 10px;
+}
+
+.row ul {
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+.row ul li {
+    list-style: none;
+    float: left;
+    padding: 10px;
+    margin-left: 0.5rem;
+    text-align: center;
+}
+
+.row a {
+    margin: top 0.5em;
+    display: inline-block;
+}
+
+.float {
+    float: left;
+}
+
+.logo {
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#kutu {
+    color: #5f6368;
+    opacity: 1;
+    cursor: pointer;
+    display: inline-block;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    padding: 8px;
+}
+
+.yazi {
+    text-decoration: none;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+#buyuklogo {
+    text-align: center;
+    margin: 100px;
+}
+
+.ilklogo {
+    width: 272px;
+    height: 92px;
+}
+
+.input {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input-area {
+    color: transparent;
+    flex: 100%;
+    white-space: pre;
+    font: 16px arial, sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+    display: block;
+}
+
+.input {
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    margin-top: -68px;
+    font: 16px arial, sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: start;
+    appearance: textfield;
+    cursor: text;
+}
+
+.googlesearch {
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.feelinglucky {
+    padding: 0 16px;
+    line-height: 27px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+/*  <div class="container">
+
+        <br><br><br><br>
+
+        <div class="logo"> <img src="foto/googlelogo_color_272x92dp.png" alt="googlelogo"></div>
+        <br><br>
+        <div class="input-area">
+            <input type="text" class="input" maxlength="2048" />
+        </div>
+        <div class="buttons">
+            <a href=""><button class="googlesearch">Google Search</button></a>
+            <a href=""><button class="feelinglucky">I'm Feeling Lucky</button></a>
+        </div>
+
+
+
+    </div> 
+    
+    .container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    float: left;
+}
+*/
